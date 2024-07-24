@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/music"
+        android:title="music"
+        android:icon="@drawable/baseline_audiotrack_24"/>
+    <item
+        android:id="@+id/search"
+        android:title="search"
+        android:icon="@drawable/baseline_bubble_chart_24"/>
+    <item
+        android:id="@+id/podcast"
+        android:title="podcast"
+        android:icon="@drawable/baseline_broadcast_on_home_24"/>
+    <item
+        android:id="@+id/download"
+        android:title="download"
+        android:icon="@drawable/baseline_arrow_downward_24"/>
+
+
+</menu>
